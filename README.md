@@ -21,7 +21,7 @@ git clone https://github.com/SagarRuhil/Netflix-Clone
 
 cd Netflix-Clone
 
-3. Open the index.html file in your web browser.
+3. Open the netflic-clone.tsx file in your web browser.
 
 Limitations :
 
