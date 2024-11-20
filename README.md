@@ -14,14 +14,14 @@ Prerequisites : Any modern web browser (e.g., Chrome, Firefox, Safari).
 
 Installation :
 
-Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 git clone https://github.com/SagarRuhil/Netflix-Clone
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd Netflix-Clone
 
-3.Open the index.html file in your web browser.
+3. Open the index.html file in your web browser.
 
 Limitations :
 
